@@ -1,0 +1,6 @@
+name = himlTest
+summary = JSON like format
+outType = exe
+version = 1.1
+srcDirs = ./
+incDir = ./
