@@ -1,3 +1,5 @@
+This repo is deprecated and move to https://github.com/chunquedong/jsonc
+
 # HiML
 HiML is a JSON like data format for serialization.
 
